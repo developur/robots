@@ -1,0 +1,22 @@
+{
+  "name": "robots",
+  "version": "1.0.0",
+  "description": "Robots",
+  "main": "index.js",
+  "scripts": {
+    "test": "robottest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developur/robots.git"
+  },
+  "keywords": [
+    "robots"
+  ],
+  "author": "Kenneth Caple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developur/robots/issues"
+  },
+  "homepage": "https://github.com/developur/robots#readme"
+}
